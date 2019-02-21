@@ -14,18 +14,3 @@ console.log("Le résultat est :" + fact + "!");
 
 
 
-/* autres solutions :
-
-function factorial(n) {
-  if ((n === 0) || (n === 1))
-    return 1;
-  else
-    return (n * factorial(n - 1));
-}
-**********************************************
-
-function factorielle(n) {
-  return n == 0 ? 1 :  n * factorielle (n-1);
-}
-
-*/
